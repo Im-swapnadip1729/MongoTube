@@ -1,0 +1,24 @@
+{
+  "name": "mongotube",
+  "version": "1.0.0",
+  "description": "fun project on mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Im-swapnadip1729/MongoTube.git"
+  },
+  "author": "swapnadip98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Im-swapnadip1729/MongoTube/issues"
+  },
+  "homepage": "https://github.com/Im-swapnadip1729/MongoTube#readme",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "mongoose": "^8.0.2",
+    "nodemon": "^3.0.2"
+  }
+}
