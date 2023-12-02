@@ -1,4 +1,4 @@
-const mongoose = require ('mongoose'); // imporet mpngoose
+const mongoose = require('mongoose'); // imporet mpngoose
 
 const Schema = mongoose.Schema; // creating schema obj.
 
